@@ -45,3 +45,15 @@ def main():
         
 if __name__ == "__main__":
     main()
+
+Output:
+Enter value of Temperature:
+90
+Enter C for Celsius, F for Fahrenheit and K for Kelvin
+Enter From scale: 
+C
+Enter TO scale: 
+F
+194.0  F
+
+Process finished with exit code 0
